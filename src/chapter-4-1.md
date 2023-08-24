@@ -1,5 +1,3 @@
-Benefits of AI in Forensics
-===============================================================
 
 Artificial intelligence (AI) has the potential to transform the field of forensic science by providing powerful tools and techniques for analyzing evidence and assisting in criminal investigations. In this chapter, we will discuss some of the benefits of AI in forensics.
 

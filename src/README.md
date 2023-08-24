@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) is changing the landscape of criminal investigations. From analyzing evidence to predicting criminal behavior, intelligent technologies are transforming the way law enforcement agencies investigate and solve crimes.
 

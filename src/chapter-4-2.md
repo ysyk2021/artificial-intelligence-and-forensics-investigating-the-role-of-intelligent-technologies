@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Forensics
-=================================================================================
 
 While artificial intelligence (AI) holds great promise for revolutionizing the field of forensic science, there are also a number of challenges and limitations associated with its use. In this chapter, we will discuss some of the challenges and limitations of AI in forensics.
 

@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Forensics
-==============================================================
 
 In this chapter, we will examine the ethical and legal issues that arise from the use of artificial intelligence (AI) in forensic investigations. Specifically, we will discuss the ethical considerations related to using AI in forensic science and the legal implications that arise from relying on automated systems in criminal investigations.
 

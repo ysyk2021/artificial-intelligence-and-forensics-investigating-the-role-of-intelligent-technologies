@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 Artificial intelligence (AI) has the potential to revolutionize many fields, including forensic investigation. AI technologies offer new ways to collect, analyze, and interpret data, which can lead to more accurate and efficient criminal investigations. In this book, we will explore the role of intelligent technologies in criminal investigations and their potential impact on the field of forensics.
 

@@ -1,5 +1,3 @@
-Digital Forensics and Cybercrime Investigation
-========================================================================================
 
 In this chapter, we will focus on the application of artificial intelligence (AI) in digital forensics and cybercrime investigation. With the increasing use of digital devices and online activities, cybercrime has become a significant threat to individuals, organizations, and governments. The use of AI can help law enforcement agencies to collect and analyze digital evidence, identify suspects, and prevent cyberattacks.
 

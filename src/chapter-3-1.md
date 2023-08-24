@@ -1,5 +1,3 @@
-Global Trends in Criminal Investigations and Evidence Analysis
-==============================================================================================
 
 Forensic science plays a crucial role in criminal investigations around the world. With the emergence of advanced technologies and techniques, forensic science has evolved significantly over the years. In this chapter, we will discuss some of the global trends in criminal investigations and evidence analysis that are transforming the field of forensic science.
 

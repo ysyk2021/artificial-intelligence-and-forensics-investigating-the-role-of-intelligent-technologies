@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a broad field encompassing a wide range of technologies and techniques. At the heart of many AI applications is machine learning, a set of techniques that enable algorithms to learn from data and improve their performance over time. In this chapter, we will discuss some of the fundamental concepts of machine learning.
 

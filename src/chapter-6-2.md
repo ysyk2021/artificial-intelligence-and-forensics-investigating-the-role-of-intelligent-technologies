@@ -1,5 +1,3 @@
-Legal Considerations
-====================================================================================
 
 In this chapter, we will examine the legal considerations related to the use of artificial intelligence (AI) in forensic science. While the use of AI can have significant benefits in forensic investigations, it is important to ensure that these technologies meet legal standards for admissibility, reliability, and interpretation.
 

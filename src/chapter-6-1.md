@@ -1,5 +1,3 @@
-Ethics of Using AI in Forensic Science
-======================================================================================================
 
 In this chapter, we will examine the ethical and legal issues related to the use of artificial intelligence (AI) in forensic science. While the use of AI can have significant benefits in forensic investigations, it is important to consider the potential ethical concerns and ensure that these technologies are used in a responsible and ethical manner.
 

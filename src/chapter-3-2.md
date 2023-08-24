@@ -1,5 +1,3 @@
-Components of Forensic Science
-==============================================================
 
 Forensic science is the scientific study of evidence in criminal investigations. It involves the collection, analysis, and interpretation of physical evidence and data to assist in the resolution of crimes. In this chapter, we will discuss the different components of forensic science and how they contribute to the criminal investigation process.
 

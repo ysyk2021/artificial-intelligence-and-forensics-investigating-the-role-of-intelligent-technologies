@@ -1,5 +1,3 @@
-Chapter 3: Forensics Landscape
-==============================
 
 In this chapter, we will examine the landscape of forensic investigations and the components of forensic science. Specifically, we will discuss global trends in criminal investigations and evidence analysis, as well as the different components of forensic science.
 

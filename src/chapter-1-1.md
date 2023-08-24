@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Forensics
-==========================================================================
 
 Artificial intelligence (AI) has the potential to transform many fields, including forensic investigation. In this chapter, we will provide an overview of AI and forensics and discuss how these two fields can work together.
 

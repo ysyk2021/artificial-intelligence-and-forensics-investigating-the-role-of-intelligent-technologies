@@ -1,5 +1,3 @@
-Crime Scene Investigation and Reconstruction
-======================================================================================
 
 In addition to facial recognition and biometric identification, artificial intelligence (AI) has the potential to revolutionize crime scene investigation and reconstruction. AI-powered tools can analyze and interpret data from a wide range of sources, including photographs, video footage, and physical evidence.
 

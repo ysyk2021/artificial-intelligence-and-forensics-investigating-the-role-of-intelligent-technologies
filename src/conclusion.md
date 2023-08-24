@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the intersection of artificial intelligence (AI) and forensics, investigating the role of intelligent technologies in criminal investigations. From the history of AI to current developments in deep learning and natural language processing, we have seen how AI has the potential to transform forensic investigations.
 

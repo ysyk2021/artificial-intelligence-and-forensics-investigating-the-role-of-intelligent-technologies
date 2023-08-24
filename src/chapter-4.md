@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Forensics
-==================================
 
 In this chapter, we will discuss the role of artificial intelligence (AI) in forensic investigations. Specifically, we will examine the benefits of using AI in forensic investigations as well as the challenges and limitations associated with this technology.
 

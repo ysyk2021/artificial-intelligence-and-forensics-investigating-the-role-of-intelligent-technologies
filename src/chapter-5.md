@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Forensic Solutions
-========================================
 
 In this chapter, we will explore how artificial intelligence (AI) is being used in various forensic applications. Specifically, we will focus on the role of AI-powered forensic solutions in crime scene investigation and reconstruction, facial recognition and biometric identification, and digital forensics and cybercrime investigation.
 

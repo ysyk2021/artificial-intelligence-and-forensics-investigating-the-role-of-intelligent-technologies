@@ -1,5 +1,3 @@
-Facial Recognition and Biometric Identification
-=========================================================================================
 
 One of the most promising applications of artificial intelligence (AI) in forensic sciences is facial recognition and biometric identification. These technologies leverage machine learning algorithms to identify individuals based on their unique physical characteristics, such as facial features, iris patterns, or fingerprints.
 

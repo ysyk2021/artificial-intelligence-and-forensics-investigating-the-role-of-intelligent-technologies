@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Forensics
-=====================================
 
 In this chapter, we will explore the future of artificial intelligence (AI) in forensic investigations. Specifically, we will discuss emerging trends and future prospects for the use of AI in forensics.
 

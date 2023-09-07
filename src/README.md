@@ -16,3 +16,7 @@ It is also an essential resource for anyone concerned about the potential risks 
 Artificial intelligence is transforming the field of forensics, offering new tools and insights for criminal investigations. The book "Artificial Intelligence and Forensics: Investigating the Role of Intelligent Technologies in Criminal Investigations" provides a comprehensive overview of the ways in which AI is being used in forensics and explores the potential benefits and risks of this emerging field. By examining the ethical and legal implications of using intelligent technologies in criminal investigations, this book offers insights into how we can ensure that these technologies are used responsibly and ethically to advance the cause of justice.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

@@ -1,5 +1,4 @@
-Chapter: Components of Forensic Science
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential components of forensic science and their role in leveraging intelligent technologies for criminal investigations. Forensic science encompasses a range of disciplines that contribute to the identification, collection, analysis, and interpretation of evidence. Understanding the different components of forensic science is crucial for comprehending how artificial intelligence (AI) can enhance these processes. Let's delve into the key components of forensic science and their significance.
 

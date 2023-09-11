@@ -1,5 +1,4 @@
-Chapter: Global Trends in Criminal Investigations and Evidence Analysis
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the global trends shaping criminal investigations and evidence analysis in the context of artificial intelligence (AI) and intelligent technologies. As technology advances and societies evolve, law enforcement agencies and forensic experts face new challenges and opportunities. Understanding these global trends is crucial for leveraging AI effectively in the field of criminal investigations. Let's delve into the key trends influencing the landscape of modern investigations and evidence analysis.
 
